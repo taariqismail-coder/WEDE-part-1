@@ -1,0 +1,165 @@
+Website Project Proposal 2
+Target Organisation: Riqo’s Production
+1. Organisation Overview
+
+Name: Riqo’s Production
+
+Riqo’s Production is an independent music production brand founded by Taariq Ismail. The brand focuses on producing instrumentals and beats for artists within hip-hop, trap, and modern digital music genres.
+
+The purpose of Riqo’s Production is to provide artists with high-quality beats and music production services that help them create professional and unique music projects. The production brand works with independent artists and content creators who require instrumentals for their music.
+
+Currently, the brand connects with artists primarily through social media and direct communication. However, there is no dedicated website where artists can learn about the services offered or contact the producer professionally.
+
+Developing a website will allow Riqo’s Production to present its services in a structured and professional manner, making it easier for artists to discover the brand and enquire about collaborations.
+
+Mission Statement
+
+The mission of Riqo’s Production is to produce high-quality beats and instrumentals that support artists in creating original music.
+
+Vision Statement
+
+The vision of Riqo’s Production is to grow into a recognised music production brand that collaborates with artists locally and internationally.
+
+Target Audience
+
+The target audience includes:
+
+Independent rappers and vocalists
+
+Music artists searching for beats
+
+Content creators who need background music
+
+Individuals interested in music production
+
+2. Website Goals and Objectives
+
+The main goal of the website is to create a professional platform where artists can learn about the services offered by Riqo’s Production.
+
+Objectives include:
+
+Promoting music production services
+
+Presenting available beats and production work
+
+Allowing artists to enquire about collaborations
+
+Building a professional online identity for the brand
+
+Key Performance Indicators (KPIs)
+
+Visitor tracking will be implemented via Google Analytics once the website is live. This will allow us to monitor the number of visitors, page views, and other engagement metrics.
+
+
+3. Current Website Analysis
+
+Currently, Riqo’s Production operates mainly through social media and personal communication with artists.
+
+Strengths
+
+Direct communication with artists
+
+Existing portfolio of music production work
+
+Weaknesses
+
+No official website
+
+Limited structured presentation of services
+
+Areas for Improvement
+
+Creating a website will provide a professional platform where artists can learn about services and contact the producer easily.
+
+4. Proposed Website Features and Functionality
+
+The website will include the following pages:
+
+Homepage (index.html)
+Introduction to the producer and overview of services.
+
+About Page (about.html)
+Information about the producer, founder, and production style.
+
+Services Page (services.html)
+Details about beat production and collaboration services.
+
+Enquiry Page (enquiry.html)
+A form where artists can enquire about purchasing beats or working together.
+
+Contact Page (contact.html)
+Contact details and social media links.
+
+5. Design and User Experience
+
+Colour Scheme
+
+Black
+
+Red
+
+White
+
+These colours represent creativity and modern music culture.
+
+Typography
+
+Bold modern fonts will be used for headings, while body text will use simple sans-serif fonts for readability.
+
+Layout and Design
+
+The website will have a clean and modern layout with clearly organised sections.
+
+User Experience Considerations
+
+Simple navigation menu
+
+Clear service information
+
+Fast loading pages
+
+6. Technical Requirements
+
+The website will be developed using HTML to demonstrate the fundamental structure of web pages.
+
+The project will require a domain name and basic web hosting services.
+
+7. Timeline and Milestones
+
+Week 1 – Project planning and proposal development
+Week 2 – Content research
+Week 3 – Sitemap and website structure planning
+Week 4 – HTML development
+Week 5 – Testing and debugging
+
+8. Budget
+
+Domain registration: R150 per year (these are planned domains)
+Web hosting: R1000 per year
+Website development: R4500 once-off
+Maintenance: R800 per year
+
+Estimated total: R6450
+
+9. References
+
+Krug, S., 2014. Don’t Make Me Think: A Common Sense Approach to Web Usability. 3rd ed. Berkeley: New Riders.
+
+Mozilla Developer Network, 2024. HTML: HyperText Markup Language. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML
+ (Accessed: 9 March 2026).
+
+W3Schools, 2024. HTML Tutorial. Available at: https://www.w3schools.com/html/
+ (Accessed: 9 March 2026).
+
+GitHub, 2024. GitHub Documentation. Available at: https://docs.github.com
+ (Accessed: 9 March 2026).
+
+OpenAI, 2026. ChatGPT (Large Language Model). Available at: https://chat.openai.com
+ (Accessed: 9 March 2026).
+
+Note: AI-assisted tools such as ChatGPT were used to assist with drafting and structuring the proposal content, while all project decisions and final edits were completed by the author, Taariq Ismail.
+
+self image reference:
+Figure 1: Riqo’s Production Logo (Ismail, 2026)
+Figure 2: Riqo’s Production Studio Image (Ismail, 2026)
+Figure 3: Riqo’s Production Promo Video (Ismail, 2026)

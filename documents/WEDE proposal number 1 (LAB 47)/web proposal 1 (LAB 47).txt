@@ -1,0 +1,176 @@
+Website Project Proposal 1
+Target Organisation: Lab 47 (Clothing Brand)
+1. Organisation Overview
+
+Name: Lab 47
+
+Lab 47 is an independent streetwear clothing brand that focuses on modern youth fashion and creative culture founded by Taariq Ismail. The brand combines elements of streetwear, music culture, and urban design to produce clothing that reflects individuality and artistic expression.
+
+Lab 47 was founded with the goal of creating unique clothing pieces that represent modern street culture. The brand focuses on producing high-quality apparel such as t-shirts, hoodies, and accessories that appeal to young people who are influenced by music, fashion, and digital culture.
+
+The brand currently promotes its products mainly through social media platforms, where it shares designs, product drops, and creative visuals. However, the organisation aims to expand its online presence by developing a professional website where customers can learn more about the brand, view products, and contact the business for enquiries.
+
+Mission Statement:
+
+The mission of Lab 47 is to create stylish and creative streetwear clothing that represents individuality, youth culture, and artistic expression.
+
+Vision Statement:
+
+The vision of Lab 47 is to grow into a recognised streetwear brand that connects fashion, music, and creative culture while reaching customers both locally and internationally.
+
+Target Audience:
+
+The target audience includes:
+
+Young adults aged 16–30
+
+Individuals interested in streetwear fashion
+
+Music and urban culture enthusiasts
+
+Customers looking for unique and creative clothing
+
+2. Website Goals and Objectives
+
+The main goal of the Lab 47 website is to create a professional online platform that showcases the brand and its clothing products.
+
+Objectives include:
+
+Promoting Lab 47 clothing and brand identity
+
+Allowing customers to view available products
+
+Providing information about the brand and its story
+
+Allowing customers to enquire about purchases or collaborations
+
+Key Performance Indicators (KPIs)
+
+Success of the website will be measured through:
+
+Visitor tracking will be implemented via Google Analytics once the website is live. This will allow us to monitor the number of visitors, page views, and other engagement metrics.
+
+3. Current Website Analysis
+
+Currently, Lab 47 does not have an official website and mainly relies on social media platforms to promote products and communicate with customers.
+
+Strengths
+
+Strong creative identity
+
+Existing audience on social media
+
+Weaknesses
+
+No dedicated website for customers
+
+Limited ability to organise product information
+
+Difficult for new customers to discover the brand
+
+Areas for Improvement
+
+Creating a website will provide:
+
+A professional online store presence
+
+Better presentation of clothing products
+
+Easier access for customers to contact the brand
+
+4. Proposed Website Features and Functionality
+
+The Lab 47 website will include the following pages:
+
+Homepage (index.html)
+A landing page introducing the brand with a hero image and navigation menu.
+
+About Page (about.html)
+Information about the brand’s story, mission, and vision.
+
+Products Page (products.html)
+A display of clothing items such as hoodies, t-shirts, and accessories.
+
+Enquiry Page (enquiry.html)
+A form where customers can enquire about purchasing products or collaborations.
+
+Contact Page (contact.html)
+Contact information and social media links.
+
+5. Design and User Experience
+
+Colour Scheme
+
+The website will use the following colour palette:
+
+Black
+
+Red
+
+White
+
+These colours represent a bold streetwear aesthetic.
+
+Typography
+
+Headings will use bold modern fonts, while body text will use readable fonts such as Arial.
+
+Layout and Design
+
+The website will follow a modern and minimal layout with strong visual images of clothing products.
+
+User Experience Considerations
+
+Easy navigation between pages
+
+Clear presentation of products
+
+Fast loading pages
+
+Low-fidelity wireframes will be developed to visualise the layout.
+
+6. Technical Requirements
+
+The website will be developed using HTML to demonstrate basic web development principles.
+
+The project will require a domain name such as lab47.co.za and web hosting services.
+
+7. Timeline and Milestones
+
+Week 1 – Project proposal and planning
+Week 2 – Content research and image preparation
+Week 3 – Sitemap and website structure planning
+Week 4 – HTML development of pages
+Week 5 – Testing and improvements
+
+8. Budget
+
+Domain registration: R150 per year (these are planned domains)
+Web hosting: R1200 per year
+Website development: R5000 once-off
+Maintenance: R1000 per year
+
+Estimated total: R7350
+
+9. Reference's
+
+Krug, S., 2014. Don’t Make Me Think: A Common Sense Approach to Web Usability. 3rd ed. Berkeley: New Riders.
+
+Mozilla Developer Network, 2024. HTML: HyperText Markup Language. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML
+ (Accessed: 9 March 2026).
+
+W3Schools, 2024. HTML Tutorial. Available at: https://www.w3schools.com/html/
+ (Accessed: 9 March 2026).
+
+GitHub, 2024. GitHub Documentation. Available at: https://docs.github.com
+ (Accessed: 9 March 2026).
+
+OpenAI, 2026. ChatGPT (Large Language Model). Available at: https://chat.openai.com
+ (Accessed: 9 March 2026).
+
+Note: AI-assisted tools such as ChatGPT were used to assist with drafting and structuring the proposal content, while all project decisions and final edits were completed by the author, Taariq Ismail.
+
+self image reference:
+Figure 1: Lab 47 Hero Image (Ismail, 2026)
+Figure 2: Lab 47 Product Display (Ismail, 2026)
+Figure 3: Lab 47 Lifestyle Image (Ismail, 2026)
