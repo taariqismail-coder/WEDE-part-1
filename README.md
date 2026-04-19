@@ -1,10 +1,9 @@
 #  Riqos Production
 
 Riqos Production is a modern creative production website built to showcase music, visuals, and digital media projects.
+The brand represents discipline, creativity, and precision,combining artistic energy with professional execution.
 
-The brand represents discipline, creativity, and precision — combining artistic energy with professional execution.
 
----
 
 ##  Overview
 
@@ -23,7 +22,7 @@ The website focuses on:
 - Modern UI/UX principles
 - Dark, bold aesthetic
 
----
+
 
 ## Tech Stack
 
@@ -32,18 +31,6 @@ The website focuses on:
 - Flexbox / CSS Grid  
 - Responsive Design Principles  
 
----
-
-## Project Structure
-
-riqos-production/
-│
-├── index.html
-├── images/
-├── assets/
-└── README.md
-
----
 
 ##  Features
 
@@ -56,7 +43,7 @@ riqos-production/
 - Smooth hover effects
 - Clean, professional design
 
----
+
 
 ## Website Sections
 
@@ -72,23 +59,19 @@ Overview of Riqos Production and its creative vision.
 - Creative Direction  
 - Digital Media  
 
-### Portfolio
-Showcase of selected creative and media work.
-
 ### Contact
 Direct communication for collaborations and bookings.
 
----
+
 
 ## Installation
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/riqos-production.git
+git clone https://github.com/taariqismail@gmail.com/riqos-production.git
 
 2. Open index.html in your browser.
 
----
 
 ##  Deployment
 
@@ -98,7 +81,7 @@ This project can be deployed using:
 - Netlify  
 - Vercel  
 
----
+
 
 ##  Brand Statement
 
@@ -106,14 +89,14 @@ Riqos Production stands for:
 
 > Discipline. Creativity. Precision. Elevation.
 
----
+
 
 ##  Contact
 
 Location: Johannesburg, South Africa  
 Email: taariqismail21@gmail.com 
 
----
+
 
 ## 📄 License
 

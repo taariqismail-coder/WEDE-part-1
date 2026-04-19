@@ -4,7 +4,11 @@
     <title>Riqo's Production - Enquiry</title>
 </head>
 <body bgcolor="#111" text="#fff">
-
+<style>
+  h1, h2, h3, h4 {
+    color: #ff4d4d;
+  }
+</style>
 <h1><font color="#ff4d4d">Send Us an Enquiry</font></h1>
 
 <p>
@@ -15,16 +19,53 @@
 <a href="contact.html" target="_blank"><font color="#fff">Contact</font></a> |
 </p>
 
-<h2><font color="#ff4d4d">Contact Form</font></h2>
-<form action="mailto:your-email@example.com" method="post" enctype="text/plain">
-    Name:<br>
-    <input type="text" name="name"><br><br>
-    Email:<br>
-    <input type="text" name="email"><br><br>
-    Message:<br>
-    <textarea name="message" rows="5" cols="50"></textarea><br><br>
-    <input type="submit" value="Send">
-    <input type="reset" value="Reset">
+<h2>Project Enquiry</font></h2>
+<p>Interested in working with us? Complete the form below and our team will respond within 24–48 hours.</p>
+<h3>Start a Project</h3>
+
+
+<p>Please complete the form below. We carefully review every enquiry.</p>
+
+<form action="#" method="post">
+
+  <h4>Client Information</h4>
+
+  <label for="fullname">Full Name *</label><br>
+  <input type="text" id="fullname" name="fullname" required><br><br>
+
+  <label for="company">Company / Brand Name</label><br>
+  <input type="text" id="company" name="company"><br><br>
+
+  <label for="email">Email Address *</label><br>
+  <input type="email" id="email" name="email" required><br><br>
+
+  <h4>Project Details</h4>
+
+  <label for="service">Service Required *</label><br>
+  <select id="service" name="service" required>
+    <option value="">Select a Service</option>
+    <option>Video Production</option>
+    <option>Creative Direction</option>
+    <option>Brand Development</option>
+    <option>Content Strategy</option>
+  </select><br><br>
+
+  <label for="budget">Estimated Budget *</label><br>
+  <select id="budget" name="budget" required>
+    <option value="">Select Budget Range</option>
+    <option>R5 000 – R10 000</option>
+    <option>R10 000 – R25 000</option>
+    <option>R25 000+</option>
+  </select><br><br>
+
+  <label for="timeline">Project Timeline</label><br>
+  <input type="date" id="timeline" name="timeline"><br><br>
+
+  <label for="description">Project Description *</label><br>
+  <textarea id="description" name="description" rows="5" required></textarea><br><br>
+
+  <button type="submit">Submit Enquiry</button>
+
 </form>
 
 <p>&copy; 2026 Riqo's Production | Founded by Taariq Ismail</p>
