@@ -68,7 +68,7 @@ Direct communication for collaborations and bookings.
 
 1. Clone the repository:
 
-git clone https://github.com/taariqismail@gmail.com/riqos-production.git
+git clone: https://github.com/taariqismail-coder/WEDE-part-1.git
 
 2. Open index.html in your browser.
 
